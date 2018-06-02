@@ -7,7 +7,7 @@
 
 # DESCRIPTION
 
-This is an artist website.
+This is a responsive artist website.
 
 # Technologies Used
 
